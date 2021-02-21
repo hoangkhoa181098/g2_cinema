@@ -199,3 +199,14 @@
     margin-top: 5px;
 }
 
+.ant-back-top-icon{
+    background-color: orange;
+}
+
+.anticon-vertical-align-top{
+    vertical-align: middle !important;
+}
+
+.ant-back-top-icon:hover svg{
+    color: white;
+}

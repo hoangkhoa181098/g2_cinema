@@ -58,7 +58,7 @@ export default function ThongTinLichChieu(props) {
   return (
     <>
       <h1 className="title-manage">Thêm Lịch Chiếu Phim</h1>
-      <h2 className="title-manage">Mã Phim: '{thongTinLichChieu.maPhim}'</h2>
+      <h2 className="title-manage">Mã Phim: '{thongTinLichChieu.tenPhim}'</h2>
       <Form
         form={form}
         {...formItemLayout}
